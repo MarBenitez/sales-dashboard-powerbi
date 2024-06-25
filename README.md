@@ -4,16 +4,9 @@
 
 This repository contains an interactive Power BI dashboard created from a company's sales data. The dashboard provides detailed visualizations of sales across different regions and allows users to explore and analyze the data effectively.
 
-## Repository Files
+## Sales Dashboard
 
-- [sesion_2406_1.pbix](https://app.powerbi.com/view?r=eyJrIjoiZGRhYmMyOTMtYmEzYy00YjUzLWIyNTAtNmYwMmM2NWI3ZjhjIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9): Power BI dashboard file.
-  
-- Sales.csv: Sales data.
-  
-- Australia.csv, Canada.csv, Germany.csv, Japan.csv, Mexico.csv, Nigeria.csv: Sales data broken down by country.
-  
-- bi_dimensions.xlsx: Dimensions file used in the dashboard.
-  
+- Power BI dashboard: [sesion_2406_1.pbix](https://app.powerbi.com/view?r=eyJrIjoiZGRhYmMyOTMtYmEzYy00YjUzLWIyNTAtNmYwMmM2NWI3ZjhjIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9)
 
 ## Requirements
 
