@@ -1,7 +1,5 @@
 # Sales Dashboard in Power BI
 
-<iframe title="sesion_2406_1" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZGRhYmMyOTMtYmEzYy00YjUzLWIyNTAtNmYwMmM2NWI3ZjhjIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-
 ## Description
 
 This repository contains an interactive Power BI dashboard created from a company's sales data. The dashboard provides detailed visualizations of sales across different regions and allows users to explore and analyze the data effectively.
